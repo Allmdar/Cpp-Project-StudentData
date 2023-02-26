@@ -1,6 +1,16 @@
+### What have I learnt doing this project: ##
+- Control Flow and Functions in C++
+- Arrays in C++
+- Classes and Object Oriented Programming using C++
+- Input and Output in C++
+- Memory Management (Allocation and Deallocation on the Heap)
+- Checking for memory leaks using valgrind
+
+
+
 ## Main Purpose of this Project ##
 - Implement memory management by utilizing the standard C++ heap structure as much as possible.
-- Build a student record system that stores the 'following' :
+- Build a student record system that stores the ' following ' :
 1. First name
 2. Last name
 3. address line 1
