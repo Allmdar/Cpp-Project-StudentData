@@ -1,3 +1,11 @@
+## What will I learn doing this Project ##
+- Control Flow and Functions in C++
+- Arrays in C++
+- Classes and Object Oriented Programming using C++
+- Input and Output in C++
+- Memory Management (Allocation and Deallocation on the Heap)
+- Checking for memory leaks using valgrind
+
 ## The Complete Project ##
 - Load up student data from a text file. All the needed information for the students should be in a text file, with each student's information on one line. We will provide you with a file with student data. There will be 50 students. 
 - Store all instances of your classes on the heap As stated above, all instances of your custom classes should be created on the heap.
