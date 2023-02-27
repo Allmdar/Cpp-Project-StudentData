@@ -43,14 +43,19 @@
 
 'Once the classes are done, create a main program that does the following:'
 - Load up student data from a text file: 
-1. Each student's information should be on one line in the following format:
+1. Each student's information should be on one line in the following format (fromt the text file):
    - Surname,GivenName,StreetAddress,Address2,City,State,ZipCode,Birthday,Graduation,GPA,Credit Hours Complete
 - All custom classes should be created on the heap
 - List all data for all students in a report format ("fullreport.txt")
 - Create a simpler list that prints only the first and last name ("shortreport.txt")
 
-#### Restrictions when doing this project ####
 
+#### Restrictions when doing this project ####
+- I may not use any pre-constructed classes from the c++ standard template library (vectors, sets, etc).
+- Any instance of the classes I write about need to be stored seperately on the heap by utilizing the keyword 'new'.
+- I will test the program for memory leaks using valgrind.
+- I will use C++ 98 for this project.
+- I will use a standard c array not a vector in this program.
 
 
 
