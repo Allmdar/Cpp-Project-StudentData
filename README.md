@@ -59,4 +59,17 @@
 
 
 ### UML (Unified Modeling Language) Diagram ##
+- (-) symbol indicates private members and (+) symbol indicates public members
+- The upper portion of the container shows the relationship between the classes and the lower part shows the relationship between their methods
+- the -dob*: Date attribute in the 'student' class is
+a pointer to a 'Date,' which is represented as a class.
+- By using a pointer to a Date object, the Student class can store the address of the Date object in memory instead of storing a copy of the entire Date object.
+- -address is an 'attribute' of the 'Student' class, and is represented as a pointer to an 'Address' object, which is represented as a class
+- The Student class is the only class in this project that contains pointers to other objects (Date and Address objects).
 
+#### + Student() constructor: ####
+- In OOP, constructor is a special method called when an object is created , and is used to initialize the object's member variables and perform any other necessary setup that needs to be done.
+
+#### +~ Student() destructor for Student class: ####
+- Executed when an object of the class is destroyed (using 'delete' keyword) 
+- Deallocates memory to avoid memory leaks
