@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="juFbRDx7sVsMqzYUs_ys" name="Page-1">
+        <mxGraphModel dx="719" dy="871" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Student" style="swimlane;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="-66" width="289" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="- fname: string&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=16;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="2">
+                    <mxGeometry y="30" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="- lname: string" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="2">
+                    <mxGeometry y="59" width="121" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="- dob*: Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="2">
+                    <mxGeometry y="92" width="110" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="the - dob*: Date attribute in the 'student' class is&lt;br&gt;a pointer to a 'Date,' which is represented as a class." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+                    <mxGeometry x="495" y="-66" width="440" height="55" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
